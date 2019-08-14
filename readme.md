@@ -1,4 +1,4 @@
-# readme copied from https://github.com/amandamacgregor/practiceKatas/tree/master/BowlingKata
+readme copied from https://github.com/amandamacgregor/practiceKatas/tree/master/BowlingKata
 # Scoring Bowling
 ![](../img/BowlingGameScoring.png)
 
